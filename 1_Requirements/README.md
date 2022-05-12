@@ -1,8 +1,6 @@
 # Requirement
 
-#Case Study:
-
--Wiper Control System
+#Case Study:Wiper Control System
 
 -Blue,Green, Orange ,LEDs
 
