@@ -1,7 +1,8 @@
 #Abstract
 
-Wiper is an important aspect that used to wipe raindrops or any water from the vehicle’s windscreen. The preceding machine 
-used to prompt the wiper manually and the manner of pulling up the wiper is hard to be handled. Thus, this machine is 
+Wiper is an important aspect that used to wipe raindrops or any water from the vehicle’s windscreen. 
+In this we are going to implement the car wiper system by using if STM32F4 micro controller .here we are using embbeded c language to run the STM32 MICROCONTROOLER and switch for swicthing operation and LED are used to as wiper as a refference
+The preceding machine used to prompt the wiper manually and the manner of pulling up the wiper is hard to be handled. Thus, this machine is 
 proposed to remedy those issues. The targets of this challenge are to improve the older motors machine with the aid of using imparting automatic 
 wiping machine, to enhance the machine with the aid of using the use of switch with stm32f40 and to layout a fundamental application on the way to completely function with The machine.
 The idea of this proposed wiper machine is comparable with different current traditional wiper. In spite of removing 
