@@ -1,8 +1,10 @@
 # Requirement
 
 #Case Study:Wiper Control System
--Blue,Green Orange LEDs
+-Blue,Green, Orange ,LEDs
+
 -Come on and OFF alternately for set frequency
+
 - State A,RED led will be ON
 
 Scenario:Wiper Control System
