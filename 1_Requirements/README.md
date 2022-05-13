@@ -68,9 +68,15 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 Mark Anderson invented on 1902
  
 #SWOT Analysis
+
 # 4W's& 1H
+
 What:Windscreen wipers are necessary for maintaining sufficient view for the driver,escpecially in modren high-speed cars.
+
 When:The Windshield wipers remove rain and snow from the windshield,while the headlights improve visiblity at night
+
 Where:It can be incorprate in car,trucks etc
+
 Why:To keep the windscreenclean enough to give adequate view at all times
+
 How:By using STM32F407VG microprocessor
