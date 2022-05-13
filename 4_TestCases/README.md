@@ -9,8 +9,8 @@
 # Low Level Test Cases
 |Test ID|	Description|	Exp.i/p|	Exp.o/p|	Actual o/p|	STATUS|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|TST_1|	check if the BUTTTON is pressed|	program execution|	MicrocontrollerEngine starts	LED ON(RED)	PASS|
-|TST_2|	check if the BUTTTON is pressed again	|program execution|	WIPER starts and speed of wiper is slow|	LED ON(BLUE)	PASS|
-|TST_3|	check if the BUTTTON is pressed again	|program execution	|WIPER starts and speed of wiper is moderate	|LED ON(GREEN)	PASS|
-|TST_4|	check if the BUTTTON is pressed again	|program execution	|WIPER starts and speed of wiper is good	|LED ON(ORANGE)	PASS|
-|TST_5|	check if the BUTTTON is pressed again|	-	Microcontroller|Engine stops	|LED TURNED OFF	PASS|
+|TST_1|	check if the BUTTTON is pressed|	program execution|	MicrocontrollerEngine starts	LED ON(RED)	|PASS|
+|TST_2|	check if the BUTTTON is pressed again	|program execution|	WIPER starts and speed of wiper is slow|	LED ON(BLUE)	|PASS|
+|TST_3|	check if the BUTTTON is pressed again	|program execution	|WIPER starts and speed of wiper is moderate	|LED ON(GREEN)	|PASS|
+|TST_4|	check if the BUTTTON is pressed again	|program execution	|WIPER starts and speed of wiper is good	|LED ON(ORANGE)	|PASS|
+|TST_5|	check if the BUTTTON is pressed again|	-	Microcontroller|Engine stops	|LED TURNED OFF	|PASS|
