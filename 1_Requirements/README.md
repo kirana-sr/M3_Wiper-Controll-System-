@@ -83,12 +83,13 @@ How:By using STM32F407VG microprocessor
 
 # HIGH LEVEL REQUIREMENTS
 |ID|	DESCRIPTION	|STATUS|
-|:
-HLRQ1	Car wiper using STM32F407VG	IMPLEMENTED
-HLRQ2	Led glowing in sequence	IMPLEMENTED
-HLRQ3	Car on and off	IMPLEMENTED
-HLRQ4	Wiper on and off	IMPLEMENTED
-LOW LEVEL REQUIREMENTS
-ID	DESCRIPTION	STATUS
-LLRQ1	Push Button	IMPLEMENTED
-LLRQ2	Red,Green,Blue,Orange Leds	IMPLEMENTED
+|:--:|:--:|:--:|:--:|
+|HLRQ1|	Car wiper using STM32F407VG|	IMPLEMENTED|
+|HLRQ2	|Led glowing in sequence	|IMPLEMENTED|
+|HLRQ3	|Car on and off	|IMPLEMENTED|
+|HLRQ4	|Wiper on and off	|IMPLEMENTED|
+# LOW LEVEL REQUIREMENTS
+|ID|	DESCRIPTION	|STATUS|
+|:--:|:--:|:--:|:--:|
+|LLRQ1|	Push Button	IMPLEMENTED|
+|LLRQ2|	Red,Green,Blue,Orange Leds|	IMPLEMENTED|
