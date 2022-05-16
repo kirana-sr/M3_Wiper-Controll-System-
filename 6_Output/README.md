@@ -9,3 +9,4 @@
 ![DIAGRAM](https://user-images.githubusercontent.com/74193913/168207493-3c120a56-da8b-4e6d-a229-3107ec348395.png)
 # OFF STATE
 ![DIAGRAM](https://user-images.githubusercontent.com/74193913/168195291-cc56a05a-6c2d-46f8-842a-e36059586f07.png)
+
